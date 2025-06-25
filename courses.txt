@@ -1,0 +1,22 @@
+Management & Organizations,BUSOR-UH 1003,4
+Discrete Mathematics,CS-UH 1002,4
+Computer Programming for Engineers,ENGR-UH 1000,4
+Mathematics for Statistics and Calculus Part I,MATH-UH 1000AQ,2
+Mathematics for Statistics and Calculus Part II,MATH-UH 1000B,2
+Calculus with Applications to Science and Engineering,MATH-UH 1012Q,4
+Statistics for the Social and Behavioral Sciences,SOCSC-UH 1010Q,4
+Markets,SOCSC-UH 1111,4
+FYWS:Taste Culture & the Self,WRIT-UH 1100,4
+Sound Technology and Emotion,CADT-UH 1066J,4
+Slavery and Freedom,CCOL-UH 1117,4
+Space,CDAD-UH 1002Q,4
+MVC with Apps to Scien & Eng,MATH-UH 1020Q,4
+Data Structures,CS-UH 1050,4
+Computer Systems Organization,CS-UH 2010G,4
+Algorithms,CS-UH 1052G,4
+Linear Algebra,MATH-UA 9140,4
+Elem French I (in French),FREN-UA 9001,4
+Disability and Development,CCOL-UH 2010J,3
+Experiential Learning Seminar,POL-UA 9994,4
+
+
